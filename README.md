@@ -28,5 +28,5 @@ This Grading System is a web-based system and it’s main goal is to allow Profe
 ![alt text](https://github.com/AzharMithani/Online-Grading-System/blob/master/student.png)
 
 # Access the admin using the following accounts
-Username : admin
-Password :admin
+- Username : admin
+- Password :admin
